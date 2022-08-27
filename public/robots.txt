@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://vercel-blog-study.vercel.app/
+
+# Sitemaps
+Sitemap: https://vercel-blog-study.vercel.app/sitemap.xml
